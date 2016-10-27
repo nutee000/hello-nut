@@ -1,2 +1,2 @@
 # hello-nut
-Hello, this is nut coding here！
+Hello, this is nut coding here!
